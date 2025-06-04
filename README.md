@@ -1,4 +1,4 @@
-# Web Scraping Hands-On Task (Day 1 & 2)
+# Books-to-Scrape Web Scraping Project
 
 ## Overview
 
